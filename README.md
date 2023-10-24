@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spacegirl666
-- 👀 I’m interested in coding websites
+- 👀 I’m interested in website coding
 - 🌱 I’m currently learning html, css, js
 
 <!---
